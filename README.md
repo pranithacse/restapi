@@ -1,1 +1,1 @@
-REST API using Node | Express | MongoDB By Pranitha Rallabandi
+REST API Project using NodeJS, Express & MongoDB By Pranitha Rallabandi
